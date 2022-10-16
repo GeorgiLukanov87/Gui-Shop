@@ -1,2 +1,2 @@
-# Gui-Shop
-Gui Dress Shop Exercise
+# GUI Shop
+ Tkinter GUI shop with python.
